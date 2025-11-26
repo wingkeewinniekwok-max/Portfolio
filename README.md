@@ -15,3 +15,11 @@
 #### - Translated complex data into clear visual narratives and business recommendations, demonstrating the ability to turn raw data into actionable insights for operational decision-making.
 
 [View the Project](https://github.com/wingkeewinniekwok-max/Project-2)
+
+### Project 3 – Predicting Loan Default Risk: A Machine Learning Approach to Credit Decisioning
+##### - Developed an end-to-end machine learning workflow in Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), including data cleaning, feature engineering, preprocessing pipelines, and model evaluation.
+##### - Built predictive models (Random Forest, Logistic Regression) to identify key drivers of loan default, such as credit history length, income levels, loan grade, and previous default behavior.
+##### - Conducted detailed model diagnostics using ROC-AUC, precision, recall, confusion matrix, and feature importance to assess predictive performance and explain model behavior.
+##### - Translated technical findings into clear business insights, highlighting high-risk borrower segments, operational implications, and opportunities for improved credit policies and risk management.
+
+[View the Project](https://github.com/wingkeewinniekwok-max/Project-3)
