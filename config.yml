@@ -1,5 +1,6 @@
 title: Wing Kee Winnie Kwok
-logo: /assets/img/headshot_circle.png
-#description: text below image
+logo: https://github.com/wingkeewinniekwok-max/Portfolio/blob/main/Headshot
+description: text below image
 show_downloads: True
 theme: jekyll-theme-minimal
+
