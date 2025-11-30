@@ -1,6 +1,6 @@
 # Data & Business Analysis Portfolio
-#### I’m an aspiring business analyst driven by curiosity and a desire to keep learning. I develop my skills by exploring real datasets, turning them into practical business cases, and uncovering insights that support data-informed decisions.
-#### Each project in this portfolio includes a clear workflow: data analysis, key insights, and actionable recommendations. My goal is to translate data into meaningful solutions that create value and positive impact. 
+##### I’m an aspiring business analyst driven by curiosity and a desire to keep learning. I develop my skills by exploring real datasets, turning them into practical business cases, and uncovering insights that support data-informed decisions.
+##### Each project in this portfolio includes a clear workflow: data analysis, key insights, and actionable recommendations. My goal is to translate data into meaningful solutions that create value and positive impact. 
 #### Technical skills: Python, Java, PowerBI, R-studio
 
 ## Technical Projects
