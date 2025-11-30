@@ -1,7 +1,7 @@
 # Data & Business Analysis Portfolio
-##### I’m an aspiring business analyst driven by curiosity and a desire to keep learning. I develop my skills by exploring real datasets, turning them into practical business cases, and uncovering insights that support data-informed decisions.
-##### Each project in this portfolio includes a clear workflow: data analysis, key insights, and actionable recommendations. My goal is to translate data into meaningful solutions that create value and positive impact. 
-#### Technical skills: Python, Java, PowerBI, R-studio
+###### Purpose-driven and analytically minded graduate with dual MSc degrees in Strategic Management and Business Information Management from Erasmus University Rotterdam. Passionate about combining data-driven insights with sustainable innovation to create long-term societal value. Experienced in strategy development, stakeholder engagement, and cross-functional collaboration through roles in corporate, academic, and nonprofit environments. Known for curiosity, adaptability, and leadership in multicultural teams.
+###### Each project in this portfolio includes a clear workflow: data analysis, key insights, and actionable recommendations. My goal is to translate data into meaningful solutions that create value and positive impact. 
+##### Technical skills: Python, Java, PowerBI, R-studio
 
 ## Technical Projects
 ### Project 1 - Uncovering Why Customers Leave: A Data-Driven Churn Diagnostic for Retail Banking
